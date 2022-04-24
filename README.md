@@ -1,6 +1,6 @@
 # cordel-project
 Projeto do Cordel de Milton Duarte do Capítulo 20 do Curso de HTML5 e CSS3 do Curso em Video. <br>
-Com foco em trabalhar com background-image e aplicar o efeito Parallax.
+Projeto iniciante com foco em trabalhar com background-image e aplicar o efeito Parallax.
 
 Caso queira acessar, é so clicar [aqui](https://vitox013.github.io/cordel-project/) que você será redirecionado para o site.
 
